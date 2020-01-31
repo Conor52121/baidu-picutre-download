@@ -101,7 +101,7 @@ def mkDir(dirName):
 if __name__ == '__main__':
 
 
-    with open('m.txt', 'r', encoding="utf-8") as f:
+    with open('list.txt', 'r', encoding="utf-8") as f:
         result = f.read()
     keys = result.split('\n')
     key_words = list(enumerate(keys, start=1))
