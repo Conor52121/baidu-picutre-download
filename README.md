@@ -1,5 +1,9 @@
 # BaiduPictureDownload
 可以批量下载百度图片
+
+使用环境：
+    Python3.7
+
 使用方法：
     先将所需要批量下载的图片的名称写在list.txt里面，将list.txt和downloader.py放在同一个目录下面，然后运行downloader.py即可。
 
